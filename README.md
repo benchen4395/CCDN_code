@@ -1,7 +1,7 @@
 ## Code collation
 It's an public code repository for [CCDN: Checkerboard Corner Detection Network for Robust Camera Calibration](https://link.springer.com/chapter/10.1007/978-3-319-97589-4_27) (ICIRA 2018 oral)
 
-Here is its [public version](https://arxiv.org/abs/2302.05097).
+Here is its [pdf of public version](https://arxiv.org/abs/2302.05097).
 
 As a side note, If you are interested in the checkerboard corner detection with deep learning. 
 
