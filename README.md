@@ -9,7 +9,7 @@ You can see the follow-up paper of this article [Automatic checkerboard detectio
 
 ## Dataset is public !!!
 -- Now we release the training and eval datasets for public research.
-- [Training dataset](https://huggingface.co/datasets/benchen4395/CCDN_eval_dataset): All (a total of 8050 images) were converted to gray-scale images and resized into VGA resolution with (640x480) pixels as the training dataset,
-- [Eval dataset](https://huggingface.co/datasets/benchen4395/CCDN_training_dataset): Including three public datasets: GoPro (100 images), Mesa (206 images) and uEye (206 images), original from [ROCHADE](https://link.springer.com/chapter/10.1007/978-3-319-10593-2_50) (ECCV 2014 oral).
+- [Training dataset](https://huggingface.co/datasets/benchen4395/CCDN_training_dataset): All (a total of 8050 images) were converted to gray-scale images and resized into VGA resolution with (640x480) pixels as the training dataset,
+- [Eval dataset](https://huggingface.co/datasets/benchen4395/CCDN_eval_dataset): Including three public datasets: GoPro (100 images), Mesa (206 images) and uEye (206 images), original from [ROCHADE](https://link.springer.com/chapter/10.1007/978-3-319-10593-2_50) (ECCV 2014 oral).
 
 ### __If you use this dataset, please cite these three articles. Thanks.__
